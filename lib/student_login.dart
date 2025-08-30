@@ -5,13 +5,6 @@ class StudentLogin extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Student Login'),
-      ),
-      body: const Center(
-        child: Text('Student Login Page'),
-      ),
-    );
+    return Scaffold();
   }
 }
